@@ -45,7 +45,7 @@ export const propiedades_venta = [
   },
   {
     nombre: 'Tiny House Funcional y Ecológica',
-    src: './assets/img/casa_venta4.jpg',
+    src: './assets/img/casa_venta5.jpg',
     descripcion: 'Tiny house completamente equipada, eficiente y lista para trasladar, ideal como segunda vivienda.',
     ubicacion: 'Parcela privada cercana a laguna',
     habitaciones: 1,
