@@ -6,8 +6,6 @@ const containerArriendo = document.getElementById('alquiler');
 const rowVenta = containerVenta.querySelector('.row');
 const rowArriendo = containerArriendo.querySelector('.row');
 
-console.log( containerArriendo )
-
 propiedades_venta.forEach( (propiedad, index) => {
   if (index <= 2) {
     const card = generarPlantillaCard(propiedad);
